@@ -1,4 +1,4 @@
-# Flutter Animation List
+# Flutter Sweet Sheet
 
 ## Features
 
@@ -91,9 +91,9 @@ The `SweetSheetColor` is a class which have four static values and it determine 
 ```
 
 ## Screenshot
-|                        nice                         |                        warning                           |
-| :-------------------------------------------------: | :------------------------------------------------------: |
-| ![nice](ss1.png) | ![warning](ss2.png) |
-| ![nice](ss3.png) | ![warning](ss4.png) |
-| ![nice](ss5.png) | ![warning](ss6.png) |
+|                    nice                    |                    warning                    |
+| :----------------------------------------: | :-------------------------------------------: |
+| ![nice](ss1.png) | ![nice](ss2.png) |
+| ![nice](ss3.png) | ![nice](ss4.png) |
+| ![nice](ss5.png) | ![nice](ss6.png) |
 

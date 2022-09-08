@@ -1,7 +1,7 @@
 name: flutter_sweet_sheet
 description: Show beautiful bottom sheet as confirmation dialog quickly and easily.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Keshav3097/flutter_sweet_sheet
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
