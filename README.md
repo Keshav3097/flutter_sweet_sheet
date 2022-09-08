@@ -91,7 +91,7 @@ The `SweetSheetColor` is a class which have four static values and it determine 
 ```
 
 ## Screenshot
-|                    nice                    |                    warning                    |
+|                    nice                                                                    |
 | :----------------------------------------: | :-------------------------------------------: |
 | ![nice](ss1.png)                           | ![nice](ss2.png)                              |
 | ![nice](ss3.png)                           | ![nice](ss4.png)                              |
