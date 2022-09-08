@@ -30,7 +30,7 @@ create object
 final SweetSheet _sweetSheet = SweetSheet();
 ```
 
-##Example
+## Example
 
 ```          
  _sweetSheet.show(
